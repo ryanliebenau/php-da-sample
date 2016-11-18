@@ -20,7 +20,7 @@
             <img data-src="<?php echo base_url("assets/images/sb_2.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-2.jpg");?>">
             <div class="carousel-caption">
                 <h3> Carve </h3>
-                <p> Carve your new style on Motion 9000.</p>
+                <p> Carve your new style on Motion 10000.</p>
             </div>
         </div>
 
@@ -28,7 +28,7 @@
             <img data-src="<?php echo base_url("assets/images/sb_4.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-3.jpg");?>">
             <div class="carousel-caption">
                 <h3>Pro Skate Board Motion 9000</h3>
-                <p> Do all your cool stuff on Contoso board Motion 9000.</p>
+                <p> Do all your cool stuff on Contoso board Motion 10000.</p>
             </div>
         </div>
     </div>
